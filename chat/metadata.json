@@ -1,0 +1,5 @@
+{
+  "name": "Copy of CyberShield AI",
+  "description": "A cybersecurity awareness and fraud prevention chatbot that provides daily threat updates, detailed scam breakdowns, and actionable prevention steps using real-time Google Search grounding.",
+  "requestFramePermissions": []
+}
